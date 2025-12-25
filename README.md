@@ -15,6 +15,9 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=khushijc&theme=neon&no-frame=false&no-bg=false&margin-w=4)
 
+## 💻 profile visitors count
+![](https://komarev.com/ghpvc/?username=khushijc)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
